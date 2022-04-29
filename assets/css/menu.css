@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px red solid;
+}
+#headerMenu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 1rem;
+
+}
+#headerMenu>li{
+    list-style: none;
+    padding: 1rem;
+}
